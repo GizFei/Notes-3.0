@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_instruction"
+        android:title="@string/instruction"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_change_color"
+        android:title="改变主题颜色"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_default_color"
+        android:title="恢复默认主题"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menu_update_log"
+        android:title="更新日志"
+        app:showAsAction="never"/>
+
+</menu>

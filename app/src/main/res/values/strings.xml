@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_home">事项</string>
+    <string name="title_dashboard">想法</string>
+    <string name="title_notifications">多看</string>
+    <string name="ant_man_title">蚁人</string>
+    <string name="ant_man_actors">主演：保罗·路德，迈克尔·道格拉斯，伊万杰琳·莉莉，
+        寇瑞·斯托尔</string>
+    <string name="ant_man_content">影片讲述了职业骗子斯科特·朗拥有身体变小力量，必须接受自己的
+        英雄身份并帮助他的导师——生化学家汉克·皮姆保护他所发明的蚁人战服。在强大的敌人威胁下，皮
+        姆与朗必须精心策划并执行一场惊天骗局来拯救世界的故事</string>
+    <string name="new_to_do">新建事项</string>
+    <string name="new_thought">编辑想法</string>
+    <string name="new_movie">观影感受</string>
+    <string name="newToDoTitle">新建一个待办事项</string>
+    <string name="thought_title">输入想法名称</string>
+    <string name="thought_content">你的想法是什么</string>
+    <string name="no_picture">这里本应有图片</string>
+    <string name="instruction">使用技巧</string>
+    <string name="instruction_details">
+        “待办事项”中：\n
+        1、点击“+”悬钮可以弹出或收回菜单，“新建”或是“删除”事项。\n
+        2、点出“删除”可以显示或隐藏事项的删除图标。\n
+        3、长按事项可以更改事项名称。\n\n
+        “想法”中：\n
+        1、点击想法便签可以进入该想法的编辑界面。\n
+        2、长按想法便签可以删除。\n
+        3、编辑完成后需点出“编辑完成”按钮保存。\n\n
+        “观影愿望”中：\n
+        1、点击电影名可以弹出该条记录，并能进入记录编辑界面。\n
+        2、长按电影名可以删除。\n
+        3、编辑完成后需点击“确认修改”按钮保存。
+    </string>
+    <string name="menu_update">更新日志</string>
+    <string name="menu_update_log">
+        3.0.1版本：\n
+        1. 支持待办事项可修改名称。\n
+        2. “想法”活动中视图更改成RecyclerView。\n
+        3. 优化“想法”页面和“电影”页面布局。\n\n
+        3.0.2版本（当前版本）：
+        1. 新增更换主题颜色功能。\n
+        2. 修复“待办事项”中删除事项后出现的问题。\n
+        3. 修复“想法”中自动增加的错误。
+    </string>
+
+</resources>
